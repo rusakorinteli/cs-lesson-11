@@ -232,3 +232,49 @@ h3 {
   font-weight: 400;
   margin: 0 auto;
 }
+.container-div4 {
+  height: 939px;
+  background-color: #191a19;
+}
+
+.form1 {
+  background-color: #ff7420;
+  width: 963px;
+  height: 661px;
+  border-radius: 15px;
+}
+input[type="text"] {
+  width: 419px;
+  height: 76px;
+  border-radius: 15px;
+}
+input[type="email"] {
+  width: 419px;
+  height: 76px;
+  border-radius: 15px;
+}
+input[type="tel"] {
+  width: 419px;
+  height: 76px;
+  border-radius: 15px;
+}
+select {
+  width: 419px;
+  height: 76px;
+  border-radius: 15px;
+}
+textarea {
+  width: 856px;
+  height: 148px;
+  border-radius: 15px;
+}
+.submit {
+  width: 856px;
+  height: 76px;
+  border-radius: 15px;
+}
+.centre-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
